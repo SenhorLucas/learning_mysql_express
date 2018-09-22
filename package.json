@@ -1,0 +1,22 @@
+{
+  "name": "learning_mysql_express",
+  "version": "1.0.0",
+  "description": "Learning how to create a barebones web app with express and mysql. Very basic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SenhorLucas/learning_mysql_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SenhorLucas/learning_mysql_express/issues"
+  },
+  "homepage": "https://github.com/SenhorLucas/learning_mysql_express#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
